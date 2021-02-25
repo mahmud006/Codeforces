@@ -1,0 +1,1 @@
+{"name":"Local: CF-1490A","url":"c:\\code at vscode\\Codeforces\\CF-1490A.cpp","tests":[{"id":1613543248941,"input":"6\n4\n4 2 10 1\n2\n1 3\n2\n6 1\n3\n1 4 2\n5\n1 2 3 4 3\n12\n4 31 25 50 30 20 34 46 42 16 15 16\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code at vscode\\Codeforces\\CF-1490A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CF-716A","url":"c:\\code at vscode\\Codeforces\\CF-716A.cpp","tests":[{"id":1610808439854,"input":"6 5\n1 3 8 14 19 20","output":"3"},{"id":1610808466373,"input":"6 1\n1 3 5 7 9 10","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code at vscode\\Codeforces\\CF-716A.cpp","group":"local","local":true}

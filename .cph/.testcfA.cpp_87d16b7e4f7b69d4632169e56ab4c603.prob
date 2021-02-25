@@ -1,0 +1,1 @@
+{"name":"Local: testcfA","url":"c:\\code at vscode\\Codeforces\\testcfA.cpp","tests":[{"id":1609559706198,"input":"5\n()\n(?)\n(??)\n??()\n)?(?","output":"YES\nNO\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code at vscode\\Codeforces\\testcfA.cpp","group":"local","local":true}

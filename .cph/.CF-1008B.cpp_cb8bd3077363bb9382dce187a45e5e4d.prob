@@ -1,0 +1,1 @@
+{"name":"Local: CF-1008B","url":"c:\\code at vscode\\Codeforces\\CF-1008B.cpp","tests":[{"id":1612767455510,"input":"3\n3 4\n4 6\n3 5","output":""},{"id":1612767467816,"input":"2\n3 4\n5 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code at vscode\\Codeforces\\CF-1008B.cpp","group":"local","local":true}

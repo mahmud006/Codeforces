@@ -1,0 +1,1 @@
+{"name":"Local: CF-1277A","url":"c:\\code at vscode\\Codeforces\\CF-1277A.cpp","tests":[{"id":1611045401986,"input":"5\n18\n1\n9\n100500\n33","output":"10\n1\n9\n45\n12"},{"id":1611045810544,"input":"1\n1000000000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code at vscode\\Codeforces\\CF-1277A.cpp","group":"local","local":true}
