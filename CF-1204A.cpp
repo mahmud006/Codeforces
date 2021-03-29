@@ -1,23 +1,32 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+#define ll long long
 int main()
 {
-    int n,l,r,mn=1, m1=1,mx=1,m2=1;
-    cin >> n>>l>>r;
-    for(int i=0; i<l-1; i++)
+    string s;
+    cin >> s;
+    ll chk = 1, num = 0, c1 = 0;
+    for (ll i = s.size() - 1; i >= 0; i--)
     {
-        m1 *= 2;
-        mn += m1;
-    }
-    mn += n-l;
-    for(int i=0; i<n-1; i++)
-    {
-        if(r>1)
+        if (s[i] == '1')
         {
-            m2 *= 2;
-            r--;
+            num += chk;
+            c1++;
         }
-        mx += m2;
+        //chk = chk * 2;
     }
-    cout << mn << " " <<mx <<endl;
+    cout << c1 << endl;
+    ll ch = 0, ch1 = 0, cnt = 0;
+    while (1)
+    {
+        ch = pow(4, ch1);
+        if (ch >= num)
+        {
+            break;
+        }
+        ch1++;
+        cnt++;
+        //cout << ch << endl;
+    }
+    cout << cnt << endl;
 }
