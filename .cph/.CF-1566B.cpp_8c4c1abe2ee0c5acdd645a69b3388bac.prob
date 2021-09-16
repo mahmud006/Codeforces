@@ -1,0 +1,1 @@
+{"name":"Local: CF-1566B","url":"c:\\code at vscode\\Codeforces\\CF-1566B.cpp","tests":[{"id":1631459376577,"input":"6\n01\n1111\n01100\n101\n0000\n01010\n","output":""},{"id":1631460381878,"input":"1\n01100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code at vscode\\Codeforces\\CF-1566B.cpp","group":"local","local":true}
