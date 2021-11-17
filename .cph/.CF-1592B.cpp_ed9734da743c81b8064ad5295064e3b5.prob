@@ -1,0 +1,1 @@
+{"name":"Local: CF-1592B","url":"c:\\code at vscode\\Codeforces\\CF-1592B.cpp","tests":[{"id":1633273702942,"input":"4\n3 3\n3 2 1\n4 3\n1 2 3 4\n5 2\n5 1 2 3 4\n5 4\n1 2 3 4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code at vscode\\Codeforces\\CF-1592B.cpp","group":"local","local":true}
