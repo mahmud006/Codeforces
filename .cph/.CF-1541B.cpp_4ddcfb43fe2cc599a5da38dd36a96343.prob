@@ -1,0 +1,1 @@
+{"name":"Local: CF-1541B","url":"c:\\code at vscode\\Codeforces\\CF-1541B.cpp","tests":[{"id":1637323697066,"input":"3\n2\n3 1\n3\n6 1 5\n5\n3 1 5 9 2\n","output":""},{"id":1637324470321,"input":"1\n5\n3 1 5 9 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code at vscode\\Codeforces\\CF-1541B.cpp","group":"local","local":true}

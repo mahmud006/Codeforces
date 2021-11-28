@@ -67,28 +67,42 @@ int main()
         // }
         // if (flg == 0)
         //     cout << "NO" << endl;
-        if (n > 1099)
+        // if (n > 1099)
+        // {
+        //     cout << "YES" << endl;
+        // }
+        // else
+        // {
+        //     if (n % 111 == 0 || n % 11 == 0)
+        //     {
+        //         cout << "YES" << endl;
+        //     }
+        //     else
+        //     {
+        //         ll chk = n - (n / 111) * 111;
+        //         if (chk % 11 == 0)
+        //         {
+        //             cout << "YES" << endl;
+        //         }
+        //         else
+        //         {
+        //             cout << "NO" << endl;
+        //         }
+        //     }
+        // }
+        while (1)
         {
-            cout << "YES" << endl;
-        }
-        else
-        {
-            if (n % 111 == 0 || n % 11 == 0)
+            if (n % 11 == 0)
             {
                 cout << "YES" << endl;
+                goto done;
+                //break;
             }
-            else
-            {
-                ll chk = n - (n / 111) * 111;
-                if (chk % 11 == 0)
-                {
-                    cout << "YES" << endl;
-                }
-                else
-                {
-                    cout << "NO" << endl;
-                }
-            }
+            n -= 111;
+            if (n < 0)
+                break;
         }
+        cout << "NO" << endl;
+    done:;
     }
 }
