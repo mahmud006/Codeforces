@@ -1,0 +1,1 @@
+{"name":"Local: CF-1609B","url":"c:\\code at vscode\\Codeforces\\CF-1609B.cpp","tests":[{"id":1638117109665,"input":"9 10\nabcabcabc\n1 a\n1 b\n2 c\n3 a\n4 b\n5 c\n8 a\n9 b\n1 c\n4 a\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code at vscode\\Codeforces\\CF-1609B.cpp","group":"local","local":true}
